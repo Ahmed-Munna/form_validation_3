@@ -1,12 +1,4 @@
 <?php
-
-
-
-
-
-
-
-
 // select option start
 
     $country = ["Bangladesh","Papua New-gini","Uganda","Africa","Hundoraj","Tinishio","Zimbabue"];
